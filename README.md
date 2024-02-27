@@ -16,7 +16,7 @@ The purpose of 'thuốc lào' map style and 'điếu cày' backend is to:
 
 You can install the OpenStreetMap thuốc lào package and [deploy it anywhere](CONTRIBUTING.md#Production%20builds) as a static webpage. For your convenience, we’ve deployed it [on GitHub Pages](https://zelonewolf.github.io/openstreetmap-americana/). Click the Legend button to learn the meaning of each symbol, line, and color based on the features currently visible on the map.
 
-The map's UI is by default in Vietnamese, though it can be changed to other languages. The Paracel and Spratly islands in particular will show different maritime borders depending on your chosen country.
+The map's UI is by default in Vietnamese, though it can be changed to other languages. The Paracel and Spratly islands in particular will show different maritime borders depending on your chosen country. This map style was born from the fact that OSM adoption is non-existent in Vietnam because OpenStreetMap Carto and Americana does not support rendering of disputed borders.
 
 The style will tries to label places in Vietnamese by default with a fall back to English. You can choose another language at the bottom-right corner. You can also override this preference by adding `&language=` to the URL, followed by a comma-separated list of [IETF language tags](https://www.w3.org/International/articles/language-tags/). For example, here’s a map labeled [in Portuguese, falling back to Spanish](https://zelonewolf.github.io/openstreetmap-americana/#language=pt,es). If we don’t have the name of a place in any of your preferred languages, the style shows the name in the local language as a last resort.
 
