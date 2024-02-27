@@ -7,7 +7,7 @@ The purpose of 'thuốc lào' map style and 'điếu cày' backend is to:
 - Allow private deployment by small businesses and organizations with minimal cost and regulatory hurdles (more below)
 - Showcase the richness of OpenStreetMap data in a harmonious and beautiful way
 
-'Thuốc lào' is the Vietnamese word for a kind of raw tobacco and 'điếu cày' is the Vietnamese word for "water pipe". They are a national symbol for Vietnam culture. In particular, the water pipe is praised for its versatility, strong build quality, and enhancing the richness of tobacco even though it is only made from cheap materials. This style hopes to exemplify these qualities, and forking from the more well-developed [Americana](https://github.com/ZeLonewolf/openstreetmap-americana) map style is the perfect choice for realizing them.
+'Thuốc lào' is the Vietnamese word for a kind of raw tobacco and 'điếu cày' is the Vietnamese word for "water pipe". They are a national symbol for Vietnam culture. In particular, the water pipe is praised for its versatility, strong build quality, and enhancing the richness of tobacco even though it is only made from cheap materials. This style hopes to exemplify these qualities, and forking from the more developed [Americana](https://github.com/ZeLonewolf/openstreetmap-americana) map style is the perfect choice for realizing them.
 
 <img src="doc-img/dieu_cay.png" alt="Logo" width="200"/>
 
