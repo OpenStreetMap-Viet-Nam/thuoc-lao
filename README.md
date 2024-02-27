@@ -5,6 +5,7 @@ _dành cho anh em nghiện bản đồ_ [🗺 xem](https://zelonewolf.github.io/
 <img src="doc-img/dieu_cay.png" alt="Logo" width="200"/>
 
 > _Hút thuốc lào bằng điếu cày tiện lợi, vừa ngon vừa phát ra âm thanh giòn giã. Ngoài ra thân điếu được lắp thêm móc sắt vào để treo, nhằm tránh làm nước trong thân điếu đổ ra ngoài. Điếu cày thường được chế tác bằng vật liệu sẵn có, dễ mang xách, giá thuốc rẻ, lại nặng đô nên được tầng lớp bình dân, lao động dùng một cách phổ biến._ <br/><sub>[Wiki tiếng Việt](<https://vi.wikipedia.org/w/index.php?title=Thu%E1%BB%91c_l%C3%A0o&oldid=70884217>)</sub>
+
 > _Smoking tobacco with a water pipe is convenient, delicious and produces a crisp satisfying sound. The body of the pipe has an iron hook to hang it and prevent the water from spilling out. Water pipes are often made from cheap available materials, yet has a solid build and easy to carry, so they are commonly used by the commoners and working class._ <br/><sub>[Translated from Vietnamese Wikipedia](<https://vi.wikipedia.org/w/index.php?title=Thu%E1%BB%91c_l%C3%A0o&oldid=70884217>)</sub>
 
 <br />
