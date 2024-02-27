@@ -1,29 +1,16 @@
 # OpenStreetMap thuốc lào
+[🗺 xem](https://zelonewolf.github.io/openstreetmap-americana/)
 
-_dành cho anh em nghiện bản đồ_ [🗺 xem](https://zelonewolf.github.io/openstreetmap-americana/)
+The purpose of 'thuốc lào' map style and 'điếu cày' backend is to:
+
+- Promote collaboration in OpenStreetMap’s Vietnamese and Southeast Asian mapping community
+- Allow private deployment by small businesses and organizations with minimal cost and regulatory hurdles (more below)
+- Showcase the richness of OpenStreetMap data in a harmonious and beautiful way
+
+'Thuốc lào' is the Vietnamese word for a kind of raw tobacco and 'điếu cày' is the Vietnamese word for "water pipe". They are a national symbol for Vietnam culture. In particular, the water pipe is praised for its versatility, strong build quality, and enhancing the richness of tobacco even though it is only made from cheap materials. This style hopes to exemplify these qualities, and forking from the more well-developed [Americana](https://github.com/ZeLonewolf/openstreetmap-americana) map style is the perfect choice for realizing them.
 
 <img src="doc-img/dieu_cay.png" alt="Logo" width="200"/>
 
-> _Hút thuốc lào bằng điếu cày tiện lợi, vừa ngon vừa phát ra âm thanh giòn giã. Ngoài ra thân điếu được lắp thêm móc sắt vào để treo, nhằm tránh làm nước trong thân điếu đổ ra ngoài. Điếu cày thường được chế tác bằng vật liệu sẵn có, dễ mang xách, giá thuốc rẻ, lại nặng đô nên được tầng lớp bình dân, lao động dùng một cách phổ biến._ <br/><sub>[Wiki tiếng Việt](<https://vi.wikipedia.org/w/index.php?title=Thu%E1%BB%91c_l%C3%A0o&oldid=70884217>)</sub>
-
-> _Smoking tobacco with a water pipe is convenient, delicious and produces a crisp satisfying sound. The body of the pipe has an iron hook to hang it and prevent the water from spilling out. Water pipes are often made from cheap available materials, yet has a solid build and easy to carry, so they are commonly used by the commoners and working class._ <br/><sub>[Translated from Vietnamese Wikipedia](<https://vi.wikipedia.org/w/index.php?title=Thu%E1%BB%91c_l%C3%A0o&oldid=70884217>)</sub>
-
-<br />
-
-The purpose of the Americana style is to:
-
-- Promote collaboration and common purpose in OpenStreetMap’s American mapping community
-- Express the American experience through cartography, taking inspiration from the familiar features of North American paper maps
-- Challenge the status quo by showcasing innovation and invention
-
-Americana has demonstrated or pioneered several cartographic techniques of importance to Americans that we hope will someday become commonplace among OpenStreetMap-based map styles:
-
-- Nuanced line styles help you distinguish roads, raiload tracks, and waterways based on a variety of intuitive characteristics.
-- Highway routes are identified by shields that resemble the signs on the road, with special support for roads that carry multiple routes concurrently.
-- Place labels throughout the world appear in both your preferred language and the local language, reflecting linguistic diversity both in the U.S. and abroad.
-- A dynamic legend communicates these design choices intuitively, regardless of the visual language you’re accustomed to.
-
-We do this proudly in an open source project using vector tile technology.
 
 ## How to use
 
