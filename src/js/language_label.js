@@ -14,7 +14,7 @@ hide(langPicker);
 
 var langHeader = labelControlElement("span", "lang-header");
 var langHints = labelControlElement("span", "lang-hints");
-langHints.textContent = "Begin typing to add languages";
+langHints.textContent = "Đánh để thêm ngôn ngữ";
 
 var langCancel = labelControlElement("button", "language-cancel");
 langCancel.textContent = "X";
