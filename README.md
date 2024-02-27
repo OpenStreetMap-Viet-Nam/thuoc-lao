@@ -1,10 +1,11 @@
-# OpenStreetMap Americana
+# OpenStreetMap thuốc lào
 
-_A quintessentially American map style_ [🗺 View the map](https://zelonewolf.github.io/openstreetmap-americana/)
+_dành cho anh em nghiện bản đồ_ [🗺 xem](https://zelonewolf.github.io/openstreetmap-americana/)
 
-<img src="doc-img/osm-americana-logo.png" alt="Americana map style logo" width="200"/>
+<img src="doc-img/dieu_cay.png" alt="Logo" width="200"/>
 
-> _The United States of America is such a glorious mess of contradiction, such a crazy quilt of competing themes, such a fecund mishmash of people and ideas, that defining us is pretty much pointless. There is, of course, a kind of faded notion of "Americana", one that concerns Route 66, diners, freak rock formations, and the like—but even in its halcyon days this "roadside attraction" version of America was never an accurate or nuanced distillation of our massively complicated culture._ <br/><sub>-Hampton Sides, <i>[Americana: Dispatches from the New Frontier](<https://en.wikipedia.org/wiki/Americana_(book)>)</i> (2004)</sub>
+> _Hút thuốc lào bằng điếu cày tiện lợi, vừa ngon vừa phát ra âm thanh giòn giã. Ngoài ra thân điếu được lắp thêm móc sắt vào để treo, nhằm tránh làm nước trong thân điếu đổ ra ngoài. Điếu cày thường được chế tác bằng vật liệu sẵn có, dễ mang xách, giá thuốc rẻ, lại nặng đô nên được tầng lớp bình dân, lao động dùng một cách phổ biến._ <br/><sub>[Wiki tiếng Việt](<https://vi.wikipedia.org/w/index.php?title=Thu%E1%BB%91c_l%C3%A0o&oldid=70884217>)</sub>
+> _Smoking tobacco with a water pipe is convenient, delicious and produces a crisp satisfying sound. The body of the pipe has an iron hook to hang it and prevent the water from spilling out. Water pipes are often made from cheap available materials, yet has a solid build and easy to carry, so they are commonly used by the commoners and working class._ <br/><sub>[Translated from Vietnamese Wikipedia](<https://vi.wikipedia.org/w/index.php?title=Thu%E1%BB%91c_l%C3%A0o&oldid=70884217>)</sub>
 
 <br />
 
